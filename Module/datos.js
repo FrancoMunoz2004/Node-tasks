@@ -1,11 +1,11 @@
 exports.tareas = [
     {
         id:0,
-        descripcion : "correr",
+        descripcion : "Hoy estoy jugamdo con mi hermano",
         estado: false
     },{
         id:1,
-        descripcion : "saltar",
+        descripcion : "Mi mama me hizo de comer",
         estado: false
     }
 ]
